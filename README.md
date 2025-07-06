@@ -44,4 +44,4 @@ Dicas para Sucesso
 
 Comuniquem-se regularmente para evitar conflitos.
 Testem as alterações localmente antes de enviar.
-Revisem os pull requests como se fosse uma prova do TRT-SP: com atenção e cuidado!
+
